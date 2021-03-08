@@ -9,7 +9,7 @@
 static int sViceWeaponEntityTracking[MAXPLAYERS+1];
 static bool printedSinceRoundStart=false;
 
-static char MeleesInCurrentMap[16][16];
+static char MeleesInCurrentMap[32][32];
 static int MeleeClassCountInCurrentMap;
 
 
@@ -186,7 +186,7 @@ public void onMissionSettingParsed(int pThis)
 	//提取本轮战役的近战字符串列表
 	char temp[256];
 	InfoEditor_GetString(pThis, "meleeweapons", temp, sizeof(temp));
-	MeleeClassCountInCurrentMap=ExplodeString(temp,";",MeleesInCurrentMap,16,16,true);
+	MeleeClassCountInCurrentMap=ExplodeString(temp,";",MeleesInCurrentMap,32,32,true);
 
 	if(!printedSinceRoundStart)
 	{	
