@@ -56,25 +56,281 @@
 	{
 		"en" "The Last Stand"
 	}
+	"2019"
+	{
+		"en" "2019"
+	}
+	"Z3r04Bs0lut3971"
+	{
+		"en" "Absolute Zero"
+	}
+	"jsarena2"
+	{
+		"en" "Arena of the Dead 2"
+	}
+	"bts"
+	{
+		"en" "Back To School"
+	}
+	"bpls1"
+	{
+		"en" "Blight Path"
+	}
+	"BloodTracks"
+	{
+		"en" "Blood Tracks"
+	}
+	"reversebh"
+	{
+		"en" "Blood Harvest Reverse"
+	}
+	"CarriedOff"
+	{
+		"en" "Carried Off"
+	}
+	"chenchencity"
+	{
+		"en" "晨晨市"
+	}
+	"Chernobyl"
+	{
+		"en" "Chernobyl: Chapter One"
+	}
+	"CityOfTheDead"
+	{
+		"en" "City Of The Dead"
+	}
+	"City17l4d2"
+	{
+		"en" "City 17"
+	}
+	"ColdStreamNight"
+	{
+		"en" "Cold Stream: Night Edition"
+	}
+	"damitdc"
+	{
+		"en" "Damit 2 DC"
+	}
+	"DarkCarnivalRemix"
+	{
+		"en" "Dark Carnival Remix"
+	}
+	"darkblood2"
+	{
+		"en" "Dark Blood 2"
+	}
+	"darkwood"
+	{
+		"en" "Dark Wood (Extended)"
+	}
+	"DayBreak"
+	{
+		"en" "Day Break"
+	}
+	"dbd2dc"
+	{
+		"en" "Dead Before Dawn DC"
+	}
+	"dbdextended"
+	{
+		"en" "Dead Before Dawn (Extended)"
+	}
+	"deadcenterrebirth"
+	{
+		"en" "Dead Center Rebirth"
+	}
+	"deaddestination"
+	{
+		"en" "Dead Destination"
+	}
+	"DeathWoods"
+	{
+		"en" "Death Woods"
+	}
+	"detourahead"
+	{
+		"en" "Detour Ahead"
+	}
+	"DevilMountain"
+	{
+		"en" "Devil Mountain"
+	}
+	"Diescraper362"
+	{
+		"en" "Diescraper Redux"
+	}
+	"drdegov21"
+	{
+		"en" "Drop Dead Gorges"
+	}
+	"energycrisis"
+	{
+		"en" "Energy Crisis"
+	}
+	"FatalFreight"
+	{
+		"en" "Fatal Freight"
+	}
+	"fallenport"
+	{
+		"en" "Fallen"
+	}
+	"fallindeath"
+	{
+		"en" "Fall In Death"
+	}
+	"FarewellChenming"
+	{
+		"en" "Farewell Chenming"
+	}
+	"FiretowerTrail"
+	{
+		"en" "Firetower Trail"
+	}
+	"Glubtastic"
+	{
+		"en" "Glubtastic"
+	}
+	"Glubtastic2"
+	{
+		"en" "Glubtastic2"
+	}
+	"Downpour"
+	{
+		"en" "Hard Rain: Downpour"
+	}
+	"hauntedforest"
+	{
+		"en" "Haunted Forest"
+	}
+	"heavencanwait2"
+	{
+		"en" "Heaven Can Wait II"
+	}
+	"HighwayToHell"
+	{
+		"en" "Highway To Hell"
+	}
+	"hometown"
+	{
+		"en" "Hometown"
+	}
+	"ihatemountains2"
+	{
+		"en" "I Hate Mountains 2"
+	}
+	"IndianaJones"
+	{
+		"en" "Indiana Jones and the Temple of Zombies"
+	}
+	"Landofoblivio"
+	{
+		"en" "Land Of Oblivion"
+	}
+	"LeftinChina"
+	{
+		"en" "Left in China"
+	}
+	"Lockdown"
+	{
+		"en" "Lockdown"
+	}
+	"MIC2"
+	{
+		"en" "Military Industrial Complex II V11"
+	}
+	"One4Nine"
+	{
+		"en" "One 4 Nine"
+	}
+	"OpenRoadICSX"
+	{
+		"en" "Open Road"
+	}
+	"AcerDkPsh"
+	{
+		"en" "Parish: Night Edition"
+	}
 	"QuestionableEthics"
 	{
-		"en" "Questionable Ethics 1"
+		"en" "Questionable Ethics"
 	}
-	"QuestionableEthicsAlphaTest"
+	"Ravenholm"
 	{
-		"en" "Questionable Ethics 2"
+		"en" "Ravenholm"
 	}
-	"CrashBandicootTheReturn"
+	"red"
 	{
-		"en" "CrashBandicoot 1"
+		"en" "RedemptionII"
 	}
-	"l4d2CrashBandicoot2"
+	"nemesis"
 	{
-		"en" "CrashBandicoot 2"
+		"en" "Resident Evil 3: Nemesis"
 	}
-	"TanksPlayground"
+	"RunToTheHills"
 	{
-		"en" "Tanks Playground"
+		"en" "Run To The Hills"
+	}
+	"SaltHellPark"
+	{
+		"en" "Salt Hell Park"
+	}
+	"shool"
+	{
+		"en" "Silent Hill: Otherside of Life V4.8"
+	}
+	"suicideblitz2"
+	{
+		"en" "Suicide Blitz 2"
+	}
+	"SwampFeverNight"
+	{
+		"en" "Swamp Fever: Night Edition"
+	}
+	"TheBloodyMoors"
+	{
+		"en" "The Bloody Moors"
+	}
+	"TheCurseofLazarCastle"
+	{
+		"en" "The Curse of Lazar Castle"
+	}
+	"bjrtc2"
+	{
+		"en" "The Hazing"
+	}
+	"TheHive"
+	{
+		"en" "The Hive"
+	}
+	"TheSacrificeNight"
+	{
+		"en" "The Sacrifice: Night Edition"
+	}
+	"undeadzone"
+	{
+		"en" "The Undead Zone"
+	}
+	"tot"
+	{
+		"en" "Tour of Terror"
+	}
+	"TrueFangShi"
+	{
+		"en" "True FangShi"
+	}
+	"urbanflight"
+	{
+		"en" "Urban Flight"
+	}
+	"wanli"
+	{
+		"en" "Wan Li"
+	}
+	"warcelona"
+	{
+		"en" "Warcelona"
 	}
 	"WhiteForest"
 	{
@@ -84,88 +340,8 @@
 	{
 		"en" "Yama"
 	}
-	"ddntr1"
+	"ZPTZ"
 	{
-		"en" "Deadenator"
-	}
-	"Diescraper36"
-	{
-		"en" "Diescraper"
-	}
-	"SaltHellPark"
-	{
-		"en" "Salt Hell Park"
-	}
-	"TheBloodyMoors"
-	{
-		"en" "The Bloody Moors"
-	}
-	"FarewellChenming"
-	{
-		"en" "Farewell Chenming"
-	}
-	"darkwood"
-	{
-		"en" "Dark Wood"
-	}
-	"DevilMountain"
-	{
-		"en" "Devil Mountain"
-	}
-	"fallen"
-	{
-		"en" "Fallen"
-	}
-	"Cure2"
-	{
-		"en" "Cure 2"
-	}
-	"deadvacation2"
-	{
-		"en" "Dead Vacation 2"
-	}
-	"Derailed"
-	{
-		"en" "Derailed"
-	}
-	"hauntedforest"
-	{
-		"en" "Haunted Forest"
-	}
-	"TheCure"
-	{
-		"en" "The Cure"
-	}
-	"2evileyes"
-	{
-		"en" "Evil Eyes"
-	}
-	"BloodTracks"
-	{
-		"en" "Blood Tracks"
-	}
-	"drdegov21"
-	{
-		"en" "Drop Dead Gorges"
-	}
-	"DeadSeries"
-	{
-		"en" "Dead Series"
-	}
-	"HighwayToHell"
-	{
-		"en" "Highway To Hell"
-	}
-	"ihatemountains2"
-	{
-		"en" "I Hate Moutains 2"
-	}
-	"JourneyToSplashMountain"
-	{
-		"en" "Journey To Splash Mountain"
-	}
-	"undeadzone"
-	{
-		"en" "Undead Zone"
+		"en" "Z-PTZ v2.0"
 	}
 }
