@@ -70,7 +70,7 @@
 	}
 	"bts"
 	{
-		"chi" "返回学校"
+		"chi" "回到学校"
 	}
 	"bpls1"
 	{
@@ -143,6 +143,22 @@
 	"deaddestination"
 	{
 		"chi" "死亡终点"
+	}
+	"DeadSeries"
+	{
+		"chi" "死亡系列 V4"
+	}
+	"deadseriesorig"
+	{
+		"chi" "死亡系列"
+	}
+	"deadst2"
+	{
+		"chi" "死亡2号街"
+	}
+	"DeadStreet2"
+	{
+		"chi" "死亡街区2"
 	}
 	"DeathWoods"
 	{
@@ -332,6 +348,10 @@
 	{
 		"chi" "巴塞罗那"
 	}
+	"whispersofwinter"
+	{
+		"chi" "冬日低语"
+	}
 	"WhiteForest"
 	{
 		"chi" "白森林"
@@ -339,6 +359,10 @@
 	"YamaMSE"
 	{
 		"chi" "摩耶山危机"
+	}
+	"Zengcheng"
+	{
+		"chi" "广州增城"
 	}
 	"ZPTZ"
 	{
