@@ -144,6 +144,22 @@
 	{
 		"en" "Dead Destination"
 	}
+	"DeadSeries"
+	{
+		"en" "Dead Series V4"
+	}
+	"deadseriesorig"
+	{
+		"en" "Dead Series"
+	}
+	"deadst2"
+	{
+		"en" "Dead St. 2"
+	}
+	"DeadStreet2"
+	{
+		"en" "Dead Street 2"
+	}
 	"DeathWoods"
 	{
 		"en" "Death Woods"
@@ -332,6 +348,10 @@
 	{
 		"en" "Warcelona"
 	}
+	"whispersofwinter"
+	{
+		"en" "Whispers of Winter"
+	}
 	"WhiteForest"
 	{
 		"en" "White Forest"
@@ -339,6 +359,10 @@
 	"YamaMSE"
 	{
 		"en" "Yama"
+	}
+	"Zengcheng"
+	{
+		"en" "Zengcheng"
 	}
 	"ZPTZ"
 	{
