@@ -1,9 +1,4 @@
-//-----------------------------------------------------
-//
-//
-//-----------------------------------------------------
-Msg("Initiating c12m5_cornfield_finale script\n");
-
+Msg("\n\n\n>>>>>>>>>>>>>>>>>>>>>>>>>>>Load 5_m5 finale scripts<<<<<<<<<<<<<<<<<<<<<<<<<<<<\n")
 ERROR <- -1
 PANIC <- 0
 TANK <- 1
@@ -51,8 +46,8 @@ DirectorOptions <-
 	 A_CustomFinale13 = TANK
 	 A_CustomFinaleValue13 = RandomInt(6,10)
 	 
-	 PreferredMobDirection = SPAWN_LARGE_VOLUME
-	 PreferredSpecialDirection = SPAWN_LARGE_VOLUME
+	 PreferredMobDirection = SPAWN_ABOVE_SURVIVORS
+	 PreferredSpecialDirection = SPAWN_SPECIALS_ANYWHERE
 
 }
 
