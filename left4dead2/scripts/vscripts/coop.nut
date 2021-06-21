@@ -101,7 +101,7 @@ DirectorOptions <-
 					else if(rv < 0.3)
 					{
 						realConvertWeapon="weapon_sniper_scout_spawn"
-					}
+					
 					else if(rv < 0.65)
 					{
 						realConvertWeapon="weapon_sniper_military_spawn"
@@ -188,7 +188,7 @@ function EasyLogic::Update::SpawnWitchWhenFlow ()
 	local flow = s.GetFlowDistance();
 	if ( flow > HFlow )
 	{
-		local count = ((flow - HFlow) / 240).tointeger();
+		local count = ((flow - HFlow) / 1000).tointeger();
 		for (; count > 0; count-- )
 		{
 			
@@ -202,7 +202,7 @@ function EasyLogic::Update::SpawnWitchWhenFlow ()
 				Convars.SetValue("sv_force_time_of_day","2")
 				RandomTime = 0;
 			}
-			HFlow += 2000;
+			HFlow += 1000;
 		}
 	}
 }
@@ -210,6 +210,7 @@ function EasyLogic::Update::SpawnWitchWhenFlow ()
 Convars.SetValue("director_special_battlefield_respawn_interval",4) //防守时特感刷新的速度
 Convars.SetValue("director_custom_finale_tank_spacing",2) //终局tank出现的时间间隔
 Convars.SetValue("director_tank_checkpoint_interval",240)//允许tank出生的时间，自生还者离开安全屋开始计算
+Convars.SetValue("z_tank_speed",210)  //tank常规状态下移动速度
 
 //决定Witch的刷新数量，可能吧，未验证
 Convars.SetValue("director_threat_max_separation",1) 
