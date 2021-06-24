@@ -101,7 +101,7 @@ DirectorOptions <-
 					else if(rv < 0.3)
 					{
 						realConvertWeapon="weapon_sniper_scout_spawn"
-					
+					}
 					else if(rv < 0.65)
 					{
 						realConvertWeapon="weapon_sniper_military_spawn"
