@@ -1,0 +1,5 @@
+DirectorOptions <-
+{
+
+	ZombieSpawnRange = 700
+}

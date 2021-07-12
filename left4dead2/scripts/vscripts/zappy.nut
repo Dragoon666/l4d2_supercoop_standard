@@ -1,0 +1,3 @@
+{
+	EmitSoundOn("LoudSpark", self);
+}

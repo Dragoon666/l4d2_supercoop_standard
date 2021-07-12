@@ -1,0 +1,3 @@
+{
+	EmitSoundOn("BoomerZombie.PainShort", self);
+}

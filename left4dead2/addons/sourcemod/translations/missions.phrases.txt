@@ -60,6 +60,18 @@
 	{
 		"en" "2019"
 	}
+	"25toLife"
+	{
+		"en" "25 To Life"
+	}
+	"2evileyes"
+	{
+		"en" "2 Evil Eyes"
+	}
+	"7HoursLaterII"
+	{
+		"en" "7 Hours Later II"
+	}
 	"Z3r04Bs0lut3971"
 	{
 		"en" "Absolute Zero"
@@ -72,17 +84,33 @@
 	{
 		"en" "Back To School"
 	}
+	"JTB2"
+	{
+		"en" "Beldurra 2"
+	}
 	"bpls1"
 	{
 		"en" "Blight Path"
 	}
-	"BloodTracks"
-	{
-		"en" "Blood Tracks"
-	}
 	"reversebh"
 	{
 		"en" "Blood Harvest Reverse"
+	}
+	"BlackCityExtended"
+	{
+		"en" "Blackcity Ext. Mashup"
+	}
+	"BlackMesa"
+	{
+		"en" "Black Mesa"
+	}
+	"BloodProof"
+	{
+		"en" "Blood Proof"
+	}
+	"BloodTracks"
+	{
+		"en" "Blood Tracks"
 	}
 	"CarriedOff"
 	{
@@ -90,11 +118,11 @@
 	}
 	"chenchencity"
 	{
-		"en" "晨晨市"
+		"en" "Chenchen City"
 	}
 	"Chernobyl"
 	{
-		"en" "Chernobyl: Chapter One"
+		"en" "Chernobyl：Chapter One"
 	}
 	"CityOfTheDead"
 	{
@@ -108,9 +136,21 @@
 	{
 		"en" "Cold Stream: Night Edition"
 	}
+	"contraz"
+	{
+		"en" "ContraZ"
+	}
+	"CrashBandicootL4D2"
+	{
+		"en" "Crash Bandicoot"
+	}
+	"l4d2CrashBandicoot2"
+	{
+		"en" "Crash Bandicoot 2：Electric Wumpaloo"
+	}
 	"damitdc"
 	{
-		"en" "Damit 2 DC"
+		"en" "Dam it 2! The Director's Cut"
 	}
 	"DarkCarnivalRemix"
 	{
@@ -140,9 +180,17 @@
 	{
 		"en" "Dead Center Rebirth"
 	}
+	"DeadCity2"
+	{
+		"en" "Dead City 2"
+	}
 	"deaddestination"
 	{
 		"en" "Dead Destination"
+	}
+	"echo"
+	{
+		"en" "Dead Echo 2"
 	}
 	"DeadSeries"
 	{
@@ -160,6 +208,22 @@
 	{
 		"en" "Dead Street 2"
 	}
+	"Deathcraft2v2"
+	{
+		"en" "Deathcraft II"
+	}
+	"deathaboard2"
+	{
+		"en" "Death Aboard 2"
+	}
+	"DeathMountain"
+	{
+		"en" "Death Mountain"
+	}
+	"deathSentence"
+	{
+		"en" "Death Sentence"
+	}
 	"DeathWoods"
 	{
 		"en" "Death Woods"
@@ -175,6 +239,18 @@
 	"Diescraper362"
 	{
 		"en" "Diescraper Redux"
+	}
+	"eye"
+	{
+		"en" "Divine Cybermancy"
+	}
+	"Dniepr"
+	{
+		"en" "Dniepr：Life Is Not A Bed Of Roses"
+	}
+	"drmalroy"
+	{
+		"en" "Dr. Malroy's Laboratory"
 	}
 	"drdegov21"
 	{
@@ -204,13 +280,29 @@
 	{
 		"en" "Firetower Trail"
 	}
+	"fos"
+	{
+		"en" "Front of Survivors"
+	}
 	"Glubtastic"
 	{
 		"en" "Glubtastic"
 	}
 	"Glubtastic2"
 	{
-		"en" "Glubtastic2"
+		"en" "Glubtastic 2"
+	}
+	"Glubtastic3"
+	{
+		"en" "Glubtastic 3"
+	}
+	"Glubtastic4"
+	{
+		"en" "Glubtastic 4"
+	}
+	"goldeneye4dead"
+	{
+		"en" "GoldenEye 4 Dead"
 	}
 	"Downpour"
 	{
@@ -240,21 +332,69 @@
 	{
 		"en" "Indiana Jones and the Temple of Zombies"
 	}
+	"InfectedCity"
+	{
+		"en" "Infected City"
+	}
+	"IC2"
+	{
+		"en" "Infected City 2"
+	}
+	"infectionoverdrive"
+	{
+		"en" "Infection Overdrive"
+	}
+	"JourneyToSplashMountain"
+	{
+		"en" "Journey to Splash Mountain"
+	}
+	"KokiriForest"
+	{
+		"en" "Kokiri Forest"
+	}
 	"Landofoblivio"
 	{
 		"en" "Land Of Oblivion"
+	}
+	"LastSummer"
+	{
+		"en" "Last Summer"
+	}
+	"yomimario2"
+	{
+		"en" "Left 4 Mario"
+	}
+	"behind"
+	{
+		"en" "Left Behind"
 	}
 	"LeftinChina"
 	{
 		"en" "Left in China"
 	}
+	"leftinprypiat"
+	{
+		"en" "Left In Prypiat"
+	}
+	"LetsBuildaRocket"
+	{
+		"en" "Let's Build a Rocket"
+	}
 	"Lockdown"
 	{
 		"en" "Lockdown"
 	}
+	"lotrcampaign"
+	{
+		"en" "Lord Of The Rings Campaign"
+	}
 	"MIC2"
 	{
-		"en" "Military Industrial Complex II V11"
+		"en" "Military Industrial Complex II"
+	}
+	"nightterror"
+	{
+		"en" "Night Terror"
 	}
 	"One4Nine"
 	{
@@ -264,37 +404,85 @@
 	{
 		"en" "Open Road"
 	}
+	"omf"
+	{
+		"en" "Our Mutual Fiend"
+	}
+	"Outrun"
+	{
+		"en" "Outrun"
+	}
+	"Overkill"
+	{
+		"en" "Overkill"
+	}
 	"AcerDkPsh"
 	{
-		"en" "Parish: Night Edition"
+		"en" "Dark Parish"
+	}
+	"Hoodoo"
+	{
+		"en" "Payload Hoodoo"
+	}
+	"PlagueTale"
+	{
+		"en" "Plague Tale"
+	}
+	"precinct84l4d2"
+	{
+		"en" "Precinct 84"
 	}
 	"QuestionableEthics"
 	{
 		"en" "Questionable Ethics"
 	}
-	"Ravenholm"
+	"QuestionableEthicsAlphaTest"
 	{
-		"en" "Ravenholm"
+		"en" "Questionable Ethics：Alpha Test"
+	}
+	"RedTide"
+	{
+		"en" "Red Tide"
 	}
 	"red"
 	{
-		"en" "RedemptionII"
+		"en" "Redemption II"
+	}
+	"Outbreak"
+	{
+		"en" "Resident Evil：Outbreak"
 	}
 	"nemesis"
 	{
-		"en" "Resident Evil 3: Nemesis"
+		"en" "Resident Evil 3"
+	}
+	"RMSTitanic"
+	{
+		"en" "RMS Titanic"
 	}
 	"RunToTheHills"
 	{
 		"en" "Run To The Hills"
 	}
+	"RuralTour"
+	{
+		"en" "Rural Tour"
+	}
 	"SaltHellPark"
 	{
 		"en" "Salt Hell Park"
 	}
-	"shool"
+	"ShoreRescue"
 	{
-		"en" "Silent Hill: Otherside of Life V4.8"
+		"en" "Shore Rescue"
+	}
+	"SilentHill"
+	{
+		"en" "Silent Hill"
+	}
+	"shoolf"
+	{
+		"en" "Silent Hill：Otherside of Life"
 	}
 	"suicideblitz2"
 	{
@@ -304,6 +492,10 @@
 	{
 		"en" "Swamp Fever: Night Edition"
 	}
+	"TanksPlayground"
+	{
+		"en" "Tanks Playground"
+	}
 	"TheBloodyMoors"
 	{
 		"en" "The Bloody Moors"
@@ -311,6 +503,10 @@
 	"TheCurseofLazarCastle"
 	{
 		"en" "The Curse of Lazar Castle"
+	}
+	"graveoutdoors"
+	{
+		"en" "The Grave Outdoors"
 	}
 	"bjrtc2"
 	{
@@ -320,13 +516,25 @@
 	{
 		"en" "The Hive"
 	}
+	"Neverglades"
+	{
+		"en" "The Neverglades"
+	}
 	"TheSacrificeNight"
 	{
 		"en" "The Sacrifice: Night Edition"
 	}
+	"Asrahmat"
+	{
+		"en" "The Seal of Asrahmat"
+	}
 	"undeadzone"
 	{
 		"en" "The Undead Zone"
+	}
+	"TripDay"
+	{
+		"en" "Trip Day"
 	}
 	"tot"
 	{
@@ -336,9 +544,21 @@
 	{
 		"en" "True FangShi"
 	}
+	"UnrelentingMorning"
+	{
+		"en" "Unrelenting Morning"
+	}
 	"urbanflight"
 	{
 		"en" "Urban Flight"
+	}
+	"VC1ub5"
+	{
+		"en" "Vienna Calling 1"
+	}
+	"VC2xy6"
+	{
+		"en" "Vienna Calling 2"
 	}
 	"wanli"
 	{
@@ -347,6 +567,18 @@
 	"warcelona"
 	{
 		"en" "Warcelona"
+	}
+	"Ravenholm"
+	{
+		"en" "We Don't Go To Ravenholm"
+	}
+	"ravenholmwar2"
+	{
+		"en" "We Don't Go To Ravenholm 2"
+	}
+	"WelcometoHell"
+	{
+		"en" "Welcome to Hell"
 	}
 	"whispersofwinter"
 	{
@@ -360,12 +592,20 @@
 	{
 		"en" "Yama"
 	}
+	"ZPTZ"
+	{
+		"en" "Z-PTZ v2.0"
+	}
 	"Zengcheng"
 	{
 		"en" "Zengcheng"
 	}
-	"ZPTZ"
+	"zerowarning"
 	{
-		"en" "Z-PTZ v2.0"
+		"en" "Zero Warning"
+	}
+	"ZombieCaribbean"
+	{
+		"en" "Zombies of the Caribbean"
 	}
 }

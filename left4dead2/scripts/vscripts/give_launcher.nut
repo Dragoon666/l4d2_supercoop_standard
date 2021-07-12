@@ -1,0 +1,1 @@
+self.GiveItem("grenade_launcher");

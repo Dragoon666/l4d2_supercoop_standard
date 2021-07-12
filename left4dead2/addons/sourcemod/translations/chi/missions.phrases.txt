@@ -60,6 +60,18 @@
 	{
 		"chi" "2019"
 	}
+	"25toLife"
+	{
+		"chi" "侠盗人生"
+	}
+	"2evileyes"
+	{
+		"chi" "双邪眼"
+	}
+	"7HoursLaterII"
+	{
+		"chi" "七小时后II"
+	}
 	"Z3r04Bs0lut3971"
 	{
 		"chi" "绝对零度"
@@ -72,21 +84,37 @@
 	{
 		"chi" "回到学校"
 	}
+	"JTB2"
+	{
+		"chi" "恐惧2"
+	}
 	"bpls1"
 	{
 		"chi" "死路"
-	}
-	"BloodTracks"
-	{
-		"chi" "血之轨迹"
 	}
 	"reversebh"
 	{
 		"chi" "血腥收获反转版"
 	}
+	"BlackCityExtended"
+	{
+		"chi" "黑色之城"
+	}
+	"BlackMesa"
+	{
+		"chi" "黑山"
+	}
+	"BloodProof"
+	{
+		"chi" "血之证明"
+	}
+	"BloodTracks"
+	{
+		"chi" "血之轨迹"
+	}
 	"CarriedOff"
 	{
-		"chi" "带走"
+		"chi" "逃生"
 	}
 	"chenchencity"
 	{
@@ -108,9 +136,21 @@
 	{
 		"chi" "刺骨寒溪：黑夜"
 	}
+	"contraz"
+	{
+		"chi" "魂斗罗Z"
+	}
+	"CrashBandicootL4D2"
+	{
+		"chi" "崩溃的博士"
+	}
+	"l4d2CrashBandicoot2"
+	{
+		"chi" "崩溃的博士2：古惑狼"
+	}
 	"damitdc"
 	{
-		"chi" "大坝2"
+		"chi" "大坝2! 导演剪辑版"
 	}
 	"DarkCarnivalRemix"
 	{
@@ -130,7 +170,7 @@
 	}
 	"dbd2dc"
 	{
-		"chi" "活死人黎明导演剪辑版"
+		"chi" "活死人黎明"
 	}
 	"dbdextended"
 	{
@@ -140,9 +180,17 @@
 	{
 		"chi" "死亡中心重置版"
 	}
+	"DeadCity2"
+	{
+		"chi" "死城2"
+	}
 	"deaddestination"
 	{
 		"chi" "死亡终点"
+	}
+	"echo"
+	{
+		"chi" "死亡回声2"
 	}
 	"DeadSeries"
 	{
@@ -160,6 +208,22 @@
 	{
 		"chi" "死亡街区2"
 	}
+	"Deathcraft2v2"
+	{
+		"chi" "死亡工艺II"
+	}
+	"deathaboard2"
+	{
+		"chi" "幽灵船2"
+	}
+	"DeathMountain"
+	{
+		"chi" "死亡山脉"
+	}
+	"deathSentence"
+	{
+		"chi" "死刑"
+	}
 	"DeathWoods"
 	{
 		"chi" "死亡森林"
@@ -174,11 +238,23 @@
 	}
 	"Diescraper362"
 	{
-		"chi" "摩天大楼"
+		"chi" "喋血蜃楼"
+	}
+	"eye"
+	{
+		"chi" "异度神召"
+	}
+	"Dniepr"
+	{
+		"chi" "切尔诺贝利：人生并非事事如意"
+	}
+	"drmalroy"
+	{
+		"chi" "马尔罗伊博士的实验室"
 	}
 	"drdegov21"
 	{
-		"chi" "死亡峡谷"
+		"chi" "暴毙峡谷"
 	}
 	"energycrisis"
 	{
@@ -204,6 +280,10 @@
 	{
 		"chi" "消防瞭望塔"
 	}
+	"fos"
+	{
+		"chi" "生还之峰"
+	}
 	"Glubtastic"
 	{
 		"chi" "忧郁"
@@ -211,6 +291,18 @@
 	"Glubtastic2"
 	{
 		"chi" "忧郁2"
+	}
+	"Glubtastic3"
+	{
+		"chi" "忧郁3"
+	}
+	"Glubtastic4"
+	{
+		"chi" "忧郁4"
+	}
+	"goldeneye4dead"
+	{
+		"chi" "黄金眼：死亡"
 	}
 	"Downpour"
 	{
@@ -226,7 +318,7 @@
 	}
 	"HighwayToHell"
 	{
-		"chi" "通往地狱之路"
+		"chi" "地狱公路"
 	}
 	"hometown"
 	{
@@ -240,21 +332,69 @@
 	{
 		"chi" "印第安神庙"
 	}
+	"InfectedCity"
+	{
+		"chi" "感染之城"
+	}
+	"IC2"
+	{
+		"chi" "感染之城2"
+	}
+	"infectionoverdrive"
+	{
+		"chi" "超速感染"
+	}
+	"JourneyToSplashMountain"
+	{
+		"chi" "飞溅山之旅"
+	}
+	"KokiriForest"
+	{
+		"chi" "哥奇利森林"
+	}
 	"Landofoblivio"
 	{
 		"chi" "遗忘之地"
+	}
+	"LastSummer"
+	{
+		"chi" "去年夏天"
+	}
+	"yomimario2"
+	{
+		"chi" "马里奥探险"
+	}
+	"behind"
+	{
+		"chi" "末日迷踪"
 	}
 	"LeftinChina"
 	{
 		"chi" "留在中国"
 	}
+	"leftinprypiat"
+	{
+		"chi" "逃离普里皮亚季"
+	}
+	"LetsBuildaRocket"
+	{
+		"chi" "让我们造个火箭"
+	}
 	"Lockdown"
 	{
 		"chi" "禁闭"
 	}
+	"lotrcampaign"
+	{
+		"chi" "指环王"
+	}
 	"MIC2"
 	{
-		"chi" "军事工厂 II"
+		"chi" "军事工厂II"
+	}
+	"nightterror"
+	{
+		"chi" "恐怖之夜"
 	}
 	"One4Nine"
 	{
@@ -264,35 +404,83 @@
 	{
 		"chi" "开放之路"
 	}
+	"omf"
+	{
+		"chi" "我们共同的恶魔"
+	}
+	"Outrun"
+	{
+		"chi" "疾速逃脱"
+	}
+	"Overkill"
+	{
+		"chi" "赶尽杀绝"
+	}
 	"AcerDkPsh"
 	{
-		"chi" "教区：黑夜"
+		"chi" "黑暗教区"
+	}
+	"Hoodoo"
+	{
+		"chi" "炸弹火车"
+	}
+	"PlagueTale"
+	{
+		"chi" "瘟疫传说"
+	}
+	"precinct84l4d2"
+	{
+		"chi" "84警区"
 	}
 	"QuestionableEthics"
 	{
 		"chi" "伦理问题"
 	}
-	"Ravenholm"
+	"QuestionableEthicsAlphaTest"
 	{
-		"chi" "我们不去温霍莱姆"
+		"chi" "伦理问题：阿尔法测试"
+	}
+	"RedTide"
+	{
+		"chi" "赤潮"
 	}
 	"red"
 	{
 		"chi" "救赎II"
 	}
+	"Outbreak"
+	{
+		"chi" "生化危机：爆发"
+	}
 	"nemesis"
 	{
-		"chi" "生化危机：复仇女神"
+		"chi" "生化危机3"
+	}
+	"RMSTitanic"
+	{
+		"chi" "泰坦尼克号"
 	}
 	"RunToTheHills"
 	{
 		"chi" "逃到山上"
 	}
+	"RuralTour"
+	{
+		"chi" "喋血乡间"
+	}
 	"SaltHellPark"
 	{
 		"chi" "盐井地狱公园"
 	}
-	"shool"
+	"ShoreRescue"
+	{
+		"chi" "海滨营救"
+	}
+	"SilentHill"
+	{
+		"chi" "寂静岭"
+	}
+	"shoolf"
 	{
 		"chi" "寂静岭：另一边的生活"
 	}
@@ -304,6 +492,10 @@
 	{
 		"chi" "沼泽激战：黑夜"
 	}
+	"TanksPlayground"
+	{
+		"chi" "坦克竞技场"
+	}
 	"TheBloodyMoors"
 	{
 		"chi" "血腥荒野"
@@ -311,6 +503,10 @@
 	"TheCurseofLazarCastle"
 	{
 		"chi" "拉扎城堡的诅咒"
+	}
+	"graveoutdoors"
+	{
+		"chi" "荒野孤坟"
 	}
 	"bjrtc2"
 	{
@@ -320,13 +516,25 @@
 	{
 		"chi" "蜂巢"
 	}
+	"Neverglades"
+	{
+		"chi" "破难船"
+	}
 	"TheSacrificenight"
 	{
 		"chi" "牺牲：黑夜"
 	}
+	"Asrahmat"
+	{
+		"chi" "阿斯拉赫玛的印章"
+	}
 	"undeadzone"
 	{
 		"chi" "亡灵区"
+	}
+	"TripDay"
+	{
+		"chi" "旅行日"
 	}
 	"tot"
 	{
@@ -336,9 +544,21 @@
 	{
 		"chi" "真道"
 	}
+	"UnrelentingMorning"
+	{
+		"chi" "无情的早晨"
+	}
 	"urbanflight"
 	{
-		"chi" "都市航班"
+		"chi" "城市航班"
+	}
+	"VC1ub5"
+	{
+		"chi" "维也纳的呼唤1"
+	}
+	"VC2xy6"
+	{
+		"chi" "维也纳的呼唤2"
 	}
 	"wanli"
 	{
@@ -347,6 +567,18 @@
 	"warcelona"
 	{
 		"chi" "巴塞罗那"
+	}
+	"Ravenholm"
+	{
+		"chi" "我们不去温霍莱姆"
+	}
+	"ravenholmwar2"
+	{
+		"chi" "我们不去莱温霍姆2"
+	}
+	"WelcometoHell"
+	{
+		"chi" "欢迎来到地狱"
 	}
 	"whispersofwinter"
 	{
@@ -360,12 +592,20 @@
 	{
 		"chi" "摩耶山危机"
 	}
+	"ZPTZ"
+	{
+		"chi" "Z-PTZ"
+	}
 	"Zengcheng"
 	{
 		"chi" "广州增城"
 	}
-	"ZPTZ"
+	"zerowarning"
 	{
-		"chi" "Z-PTZ"
+		"chi" "无声警告"
+	}
+	"ZombieCaribbean"
+	{
+		"chi" "加勒比僵尸"
 	}
 }

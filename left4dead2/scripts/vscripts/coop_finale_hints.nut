@@ -1,0 +1,1 @@
+	EntFire( "relay_finale_hints" "Trigger" );

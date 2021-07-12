@@ -1,0 +1,1 @@
+Msg("Outpost Finale Wave " + ( CurrentWave + 1 ) + "\n");

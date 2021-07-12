@@ -18,6 +18,8 @@ DirectorOptions <-
  
 	 A_CustomFinale4 = TANK
 	 A_CustomFinaleValue4 = RandomInt(2,4)
+
+
  
 	 A_CustomFinale5 = SCRIPTED
 	 A_CustomFinaleValue5 = "c3m4_2.nut"
@@ -30,6 +32,8 @@ DirectorOptions <-
  
 	 A_CustomFinale8 = TANK
 	 A_CustomFinaleValue8 = RandomInt(4,6) 
+
+
  
 	 A_CustomFinale9 = SCRIPTED
 	 A_CustomFinaleValue9 = "c3m4_3.nut" 
@@ -55,8 +59,8 @@ DirectorOptions <-
 	 PreferredMobDirection = SPAWN_LARGE_VOLUME
 	 PreferredSpecialDirection = SPAWN_LARGE_VOLUME
 }
-
 ApplyCommonFinaleOptions(DirectorOptions)
+
 // Convars.SetValue("l4d2_spawn_uncommons_autochance","3")
 // Convars.SetValue("l4d2_spawn_uncommons_autotypes","59")
 Convars.SetValue("director_relax_min_interval","120")

@@ -1,0 +1,3 @@
+{
+	EmitSoundOn("Minigun.SpinUp", self);
+}

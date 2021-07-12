@@ -1,0 +1,6 @@
+DirectorOptions <-
+{
+
+	ProhibitBosses = 0
+
+}

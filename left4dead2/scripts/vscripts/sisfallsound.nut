@@ -1,0 +1,3 @@
+{
+	EmitSoundOn("claw.drop", self);
+}

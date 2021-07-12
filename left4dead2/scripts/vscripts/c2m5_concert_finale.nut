@@ -8,7 +8,7 @@ SCRIPTED <- 3
 DirectorOptions <-
 {
 	 A_CustomFinale1 = SCRIPTED
-	 A_CustomFinaleValue1 = "c12m5_1.nut"
+	 A_CustomFinaleValue1 = "c2m5_1.nut"
 
 	 A_CustomFinale2 = PANIC
 	 A_CustomFinaleValue2 = GetFinalePanicWaveCount()	 
@@ -18,9 +18,11 @@ DirectorOptions <-
  
 	 A_CustomFinale4 = TANK
 	 A_CustomFinaleValue4 = RandomInt(2,4)
+
+
  
 	 A_CustomFinale5 = SCRIPTED
-	 A_CustomFinaleValue5 = "c12m5_2.nut"
+	 A_CustomFinaleValue5 = "c2m5_2.nut"
  
 	 A_CustomFinale6 = PANIC
 	 A_CustomFinaleValue6 = GetFinalePanicWaveCount()
@@ -31,14 +33,16 @@ DirectorOptions <-
 	 A_CustomFinale8 = TANK
 	 A_CustomFinaleValue8 = RandomInt(4,6) 
 
+
+ 
 	 A_CustomFinale9 = SCRIPTED
-	 A_CustomFinaleValue9 = "c12m5_3.nut" 
+	 A_CustomFinaleValue9 = "c2m5_3.nut" 
 
 	 A_CustomFinale10 = PANIC
 	 A_CustomFinaleValue10 = GetFinalePanicWaveCount() - 1
 
 	 A_CustomFinale11 = SCRIPTED
-	 A_CustomFinaleValue11 = "c12m5_4.nut"
+	 A_CustomFinaleValue11 = "c2m5_4.nut"
 
 	 A_CustomFinale12 = PANIC
 	 A_CustomFinaleValue12 = GetFinalePanicWaveCount() - 1
@@ -50,13 +54,15 @@ DirectorOptions <-
 	 A_CustomFinaleValue14 = RandomInt(6,10)
 
 	 A_CustomFinale15 = SCRIPTED
-	 A_CustomFinaleValue15 = "c12m5_4.nut"
+	 A_CustomFinaleValue15 = "c2m5_4.nut"
+	 
+	 PreferredMobDirection = SPAWN_NO_PREFERENCE
+	 PreferredSpecialDirection = SPAWN_NO_PREFERENCE
 
-	 PreferredMobDirection = SPAWN_LARGE_VOLUME
-	 PreferredSpecialDirection = SPAWN_LARGE_VOLUME
 }
 
 ApplyCommonFinaleOptions(DirectorOptions)
+
 // Convars.SetValue("l4d2_spawn_uncommons_autochance","3")
 // Convars.SetValue("l4d2_spawn_uncommons_autotypes","59")
 Convars.SetValue("director_relax_min_interval","120")
@@ -72,6 +78,5 @@ function OnBeginCustomFinaleStage( num, type )
 		dopts.KillAllSpecialInfected()
 	}
 }
-
 
 Msg("###Tank Health:"+DirectorOptions.ZombieTankHealth);
