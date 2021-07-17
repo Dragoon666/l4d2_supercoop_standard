@@ -6,11 +6,11 @@
 #define CVAR_FLAGS			FCVAR_NONE
 
 new Handle:g_ConVarHibernate;
+new Handle:g_ConVarmaxplayers;
 
 static const String:customCfgDir[] = "";
 
 static Handle:hCustomConfig;
-static String:configsPath[PLATFORM_MAX_PATH];
 static String:cfgPath[PLATFORM_MAX_PATH];
 static String:customCfgPath[PLATFORM_MAX_PATH];
 static DirSeparator;
@@ -24,6 +24,7 @@ public OnPluginStart()
 	SetCustomCfg(cfgString);
 	ResetConVar(hCustomConfig);
 	g_ConVarHibernate = FindConVar("sv_hibernate_when_empty");
+	g_ConVarmaxplayers = FindConVar("sv_maxplayers");
 	HookEvent("player_disconnect", Event_PlayerDisconnect, EventHookMode_Pre);
 	ExecuteCfg("server.cfg");		//或加启动项+exec server.cfg
 }
@@ -35,17 +36,26 @@ public Event_PlayerDisconnect(Handle:event, const String:name[], bool:dontBroadc
 	if(client&&!IsFakeClient(client)&&!checkrealplayerinSV(client))
 	{
 		SetConVarInt(g_ConVarHibernate,0);
-		CreateTimer(0.0,COLD_DOWN);
+		CreateTimer(0.0, COLD_DOWN);
+		CreateTimer(30.0, COLD_DOWN1);
 	}
 }
+
 public Action:COLD_DOWN(Handle:timer,any:client)
 {
 	if(checkrealplayerinSV(0)) return;
-	
+
 	LogMessage("Last one player left the server, Reset cvar now");
-	SetConVarInt(FindConVar("sv_maxplayers"), 8);
-	SetConVarInt(FindConVar("l4d_round_live_count"), -1);
+	SetConVarInt(g_ConVarmaxplayers,8);
+	ExecuteCfg("server.cfg");		//或加启动项+exec server.cfg
 	ServerCommand("map c5m1_waterfront");
+}
+
+public Action:COLD_DOWN1(Handle:timer,any:client)
+{
+	if(checkrealplayerinSV(0)) return;
+
+	SetConVarInt(g_ConVarHibernate,1);
 }
 
 bool:checkrealplayerinSV(client)
@@ -58,11 +68,9 @@ bool:checkrealplayerinSV(client)
 
 InitPaths()
 {
-	BuildPath(Path_SM, configsPath, sizeof(configsPath), "configs/confogl/");
 	BuildPath(Path_SM, cfgPath, sizeof(cfgPath), "../../cfg/");
 	DirSeparator= cfgPath[strlen(cfgPath)-1];
 }
-
 
 bool:SetCustomCfg(const String:cfgname[])
 {

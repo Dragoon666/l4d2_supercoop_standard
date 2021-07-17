@@ -285,11 +285,6 @@ public void OnRoundIsLive()
 	bPendingArrayRefresh = true;
 	
 	GetCurrentGameMode();
-
-	if(FindConVar("l4d_round_live_count") == -1){
-		g_iCoopRoundLiveCount = 1;
-		SetConVarInt(FindConVar("l4d_round_live_count"), g_iCoopRoundLiveCount);
-	}
 }
 
 //public void L4D2_OnEndVersusModeRound_Post() { if (!InSecondHalfOfRound()) iFirstHalfScore = L4D_GetTeamScore(GetRealTeam(0) + 1); }
